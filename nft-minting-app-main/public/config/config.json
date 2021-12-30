@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x866f72ecbfe1021e82d1360d272c6f53dd4b7f49",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x77c747da2dbe5d91bf8f4ed43ef97906a13de41b6b808955730a3826f064adc1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "my sea creatures",
+  "SYMBOL": "ksht",
+  "MAX_SUPPLY": 88,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/my-sea-creatures",
+  "SHOW_BACKGROUND": true
+}
